@@ -6,6 +6,7 @@ With the increase in the number of vehicles and the deployment of traffic monito
 Relevant Solution By This Project: 
 
 To solve such kind of set of critical problem, I have made a proper digital and organized and efficient technical procedure, 
+
 Step 1 : Initially using quadcopter(drone) & camera we capture real time video/image.
 Step 2 : After Capturing, we will execute Tree based Machine Learning Algorithm to detect Vehicle Number Plate.
 Step 3: Now, we will sign-up/log-in through credential portal.
